@@ -1,0 +1,27 @@
+# Library Management System
+
+## Project Overview
+A Java-based Library Management System developed using Java Swing and MySQL.
+
+## Features
+- Login System
+- Dashboard
+- Add Books
+- Search Books
+- Issue Books
+- Return Books
+
+## Technologies Used
+- Java
+- Java Swing
+- MySQL
+- JDBC
+
+## Installation
+1. Clone the repository
+2. Open in VS Code/Eclipse
+3. Configure MySQL Database
+4. Run LoginPage.java
+
+## Author
+Chandra Prakash Yadav
